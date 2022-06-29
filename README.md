@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxDavid40
+- 👋 Hi, I’m Max DAVID
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning RL/Deep learning/MLOps
 - 📫 How to reach me maxdavid40@gmail.com
